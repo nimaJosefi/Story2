@@ -1,1 +1,2 @@
 This is a story from Story2 built within git hub. 
+This is a great story
